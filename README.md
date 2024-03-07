@@ -1,6 +1,6 @@
 # git-practice
 gitの練習用（コンフリクトなど）
-コンフリクトローカルで変更!!
+mergetoolコンフリクト用(featureブランチ)
 
 
 
