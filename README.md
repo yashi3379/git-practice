@@ -1,6 +1,6 @@
 # git-practice
 gitの練習用（コンフリクトなど）
-変更staging用(1st)
+複数ファイル変更用(3st)
 
 
 
